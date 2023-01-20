@@ -11,7 +11,7 @@ func switch1(s int) {
 		fmt.Println("was <= 20")
 		fallthrough
 	case 30:
-		fmt.Println("was <= 30")
+		fmt.Println("was <= 300")
 		fallthrough
 	case 40:
 		fmt.Println("was <= 40")
